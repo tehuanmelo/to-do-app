@@ -1,4 +1,4 @@
-# To-Do App
+# ToDo App
 
 This project is a simple To-Do application designed to sharpen my JavaScript, CSS, and HTML skills. The app allows users to add, delete, and mark tasks as completed. The tasks are stored in the browser's LocalStorage, so they persist even after the page is refreshed.
 
@@ -50,6 +50,10 @@ To run this project, you need a web browser that supports HTML5, CSS3, and JavaS
 
 ```
 to-do-app/
+│
+├── assets/
+│   └── images/
+│       └── demo.png
 │
 ├── css/
 │   └── styles.css
